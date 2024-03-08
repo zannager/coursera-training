@@ -1,0 +1,15 @@
+h2 {
+    color: maroon;
+  }
+
+  body {
+    background-color: gray;
+    font-size: 130%;
+    border: solid blue;
+    padding: 6px;
+  }
+
+  p {
+    text-align: center;
+    border: solid red;
+  }

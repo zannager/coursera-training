@@ -1,2 +1,2 @@
 # coursera-training
-Coursera course
+Coursera course in basic html css and javascript
